@@ -23,7 +23,7 @@
 .gallery{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content:
 }
 .card{
     width:32%;
@@ -31,6 +31,7 @@
     margin-bottom: 20px;
     border-radius: 10px;
     overflow:hidden;
+    margin-right: 10px;
 }
 .img{
     height:100%;
